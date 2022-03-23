@@ -12,7 +12,7 @@
 # Brenner Silva
 
 
-# Cleinte: IAS - Instituto Agua e Saneamento
+# Clinte: IAS - Instituto Agua e Saneamento
 # Coordenacao: Eduardo Caetano
 
 
